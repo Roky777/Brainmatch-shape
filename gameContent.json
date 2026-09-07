@@ -17,6 +17,12 @@
         { "firstImage": "images/grade1-shape-friends/l3-shoe-box.png", "firstImageAlt": "A shoe box", "secondImage": "images/grade1-shape-friends/l3-book.png", "secondImageAlt": "A book" },
         { "firstImage": "images/grade1-shape-friends/l3-ice-cream-cone.png", "firstImageAlt": "An ice cream cone", "secondImage": "images/grade1-shape-friends/l3-party-hat.png", "secondImageAlt": "A party hat" },
         { "firstImage": "images/grade1-shape-friends/l3-tumbler.png", "firstImageAlt": "A tumbler", "secondImage": "images/grade1-shape-friends/l3-water-bottle.png", "secondImageAlt": "A water bottle" }
+      ] },
+      "level4": { "pairs": [
+        { "firstImage": "images/grade1-shape-friends/l4-orange.png", "firstImageAlt": "An orange", "secondImage": "images/grade1-shape-friends/l4-football.png", "secondImageAlt": "A football" },
+        { "firstImage": "images/grade1-shape-friends/l4-notebook.png", "firstImageAlt": "A notebook", "secondImage": "images/grade1-shape-friends/l4-matchbox.png", "secondImageAlt": "A matchbox" },
+        { "firstImage": "images/grade1-shape-friends/l4-funnel.png", "firstImageAlt": "A funnel", "secondImage": "images/grade1-shape-friends/l4-paper-cone.png", "secondImageAlt": "A paper cone" },
+        { "firstImage": "images/grade1-shape-friends/l4-tumbler.png", "firstImageAlt": "A tumbler", "secondImage": "images/grade1-shape-friends/l4-water-bottle.png", "secondImageAlt": "A water bottle" }
       ] }
     }
   }
